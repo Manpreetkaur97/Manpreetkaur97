@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manpreet Kaur</h1>
 <h3 align="center">Art of Data science</h3>
-<img align="right" alt="Coding" width="400" src="https://ai.plainenglish.io/data-science-quantitatively-unraveling-the-world-around-us-ee05c69240c9"
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1200/0*dI-o8H3i0w66SpK7.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manpreetkaur97&label=Profile%20views&color=0e75b6&style=flat" alt="manpreetkaur97" /> </p>
 
